@@ -29,13 +29,19 @@ Clean and responsive user interface
 📦 Functional Modules
 
 Employee Management
+
 Salary Management
+
 Payslip Viewer
+
 PDF Export (iText)
+
 Database Initialization & Auto Schema Creation
 
 📁 Project Structure
 
 Java Swing GUI (JFrame, JTable, buttons, input fields)
+
 MySQL backend with two linked tables
+
 Utility functions for form handling, table refresh, and input parsing
