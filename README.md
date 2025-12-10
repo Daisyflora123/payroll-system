@@ -3,10 +3,10 @@ A desktop-based payroll management application built using Java Swing and MySQL,
 
 🔧 Tech Stack
 
-Java (Swing) – GUI development
-MySQL – Database & relational data storage
-JDBC – Database connectivity
-iText – Automated PDF payslip generation
+Java (Swing) – GUI development,
+MySQL – Database & relational data storage,
+JDBC – Database connectivity,
+iText – Automated PDF payslip generation.
 
 ✨ Features
 
